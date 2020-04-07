@@ -10,7 +10,7 @@ exclude_patterns = [
 dependency_file_paths = [
     "dev-requirements.txt",
     "requirements.txt",
-    "gui-requirements.txt
+    "gui-requirements.txt"
 ]
 
 [[analyzers]]
