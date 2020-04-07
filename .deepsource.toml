@@ -7,6 +7,12 @@ exclude_patterns = [
     "examples/**"
 ]
 
+dependency_file_paths = [
+    "dev-requirements.txt",
+    "requirements.txt",
+    "gui-requirements.txt
+]
+
 [[analyzers]]
 name = "python"
 enabled = true
